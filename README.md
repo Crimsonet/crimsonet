@@ -32,10 +32,6 @@ I'm **Crimsonet**, someone who is passionate about technology and programming.
 - **VS Code** is my favorite code editor.
 - I use **GitKraken** for better git management.
 
-### GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Crimsonet&show_icons=true&text_bold=false&bg_color=242930&border_color=0000&title_color=fff&text_color=afbac4&icon_color=0088e2&ring_color=0088e2&border_radius=20)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Crimsonet&layout=compact&bg_color=242930&border_color=0000&title_color=fff&text_color=afbac4&border_radius=20)
-
 ### 📫 Contact
 
 [![Protonmail](https://img.shields.io/badge/Crimsonet@outlook.com-ffffff?style=for-the-badge&logo=protonmail&logoColor=000000)](Crimsonet@proton.me)
