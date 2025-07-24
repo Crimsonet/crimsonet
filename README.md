@@ -32,7 +32,11 @@ I'm **Crimsonet**, someone who is passionate about technology and programming.
 - **VS Code** is my favorite code editor.
 - I use **GitKraken** for better git management.
 
-### 📫 Contact
+### Contact
 
-[![Protonmail](https://img.shields.io/badge/Crimsonet@outlook.com-ffffff?style=for-the-badge&logo=protonmail&logoColor=000000)](Crimsonet@proton.me)
-[![Matrix](https://img.shields.io/badge/crimsonet@github.com-ffffff?style=for-the-badge&logo=GitHub&logoColor=000000)](https://github.com/Crimsonet)
+[![OutLook](https://img.shields.io/badge/Crimsonet@outlook.com-ffffff?style=for-the-badge&logo=protonmail&logoColor=000000)](Crimsonet@proton.me)
+[![GitHub](https://img.shields.io/badge/crimsonet@github.com-ffffff?style=for-the-badge&logo=GitHub&logoColor=000000)](https://github.com/Crimsonet)
+
+### Friendly Link
+
+[![GitHub](https://img.shields.io/badge/Nyxvectar@github.com-ffffff?style=for-the-badge&logo=GitHub&logoColor=000000)](https://github.com/nyxvectar)
