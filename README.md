@@ -34,7 +34,7 @@ I'm **Crimsonet**, someone who is passionate about technology and programming.
 
 ### Contact
 
-[![OutLook](https://img.shields.io/badge/Crimsonet@outlook.com-ffffff?style=for-the-badge&logo=protonmail&logoColor=000000)](Crimsonet@proton.me)
+[![OutLook](https://img.shields.io/badge/Crimsonet@outlook.com-ffffff?style=for-the-badge&logo=gmail&logoColor=000000)](Crimsonet@proton.me)
 [![GitHub](https://img.shields.io/badge/crimsonet@github.com-ffffff?style=for-the-badge&logo=GitHub&logoColor=000000)](https://github.com/Crimsonet)
 
 ### Friendly Link
